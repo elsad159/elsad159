@@ -1,6 +1,6 @@
 <!-- Animated wave header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Elshad%20Khalilov&fontSize=58&fontAlignY=38&fontColor=ffffff&desc=Mobile%20%26%20App%20Developer&descAlignY=60&descSize=20&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F6FEB,100:A371F7&height=240&section=header&text=Elshad%20Khalilov&fontSize=64&fontAlignY=36&fontColor=ffffff&desc=Mobile%20%26%20App%20Developer&descAlignY=58&descSize=20&animation=fadeIn" alt="header" />
 </p>
 
 <!-- Animated typing intro -->
@@ -104,32 +104,6 @@ const elshad = {
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-<img src="https://raw.githubusercontent.com/aleen42/aleen42/master/putty.gif" width="100%" height="3" alt="divider" />
-
-## GitHub in motion
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elsad159&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsad159&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsad159&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elsad159&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="activity graph" width="98%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elsad159&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
-</p>
-
-<!-- Snake eats your contributions -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/elsad159/elsad159/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 </p>
 
 <img src="https://raw.githubusercontent.com/aleen42/aleen42/master/putty.gif" width="100%" height="3" alt="divider" />
