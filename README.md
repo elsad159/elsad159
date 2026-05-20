@@ -1,4 +1,4 @@
-<!-- Custom animated hero (hand-coded SVG: gradient name, animated underline, floating particles) -->
+rem<!-- Custom animated hero (hand-coded SVG: gradient name, animated underline, floating particles) -->
 <p align="center">
   <img src="./assets/hero.svg" alt="Elshad Khalilov — Mobile & App Developer" width="100%" />
 </p>
@@ -9,58 +9,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Elshad;Mobile+%26+App+Developer;I+ship+real+products+on+iOS%2C+Android+and+the+web;Currently+building+at+elshdma.online" alt="Typing SVG" />
   </a>
 </h3>
-
-<img src="./assets/divider.svg" width="100%" height="4" alt="" />
-
-<!-- Animated section header -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=58A6FF&center=true&vCenter=true&width=520&lines=%23+featured+projects;%2F%2F+things+I+actually+shipped" alt="featured projects" />
-</h2>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="#"><img src="./assets/devsys.png" alt="DevSys" width="100%" /></a>
-      <h3 align="center">DevSys</h3>
-      <p align="center"><i>Your child's progress, in your pocket.</i></p>
-      <p align="center">Track grades, certificates, and academic progress — all in one place. Built for iPhone and Android.</p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="#"><img src="./assets/easybusiness.png" alt="Easy Business" width="100%" /></a>
-      <h3 align="center">Easy Business</h3>
-      <p align="center"><i>Orders, settlements, and campaigns — one fast, transparent platform.</i></p>
-      <p align="center">A business operations toolkit for iPhone, Android, and the web.</p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Web_App-12B886?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web App" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="#"><img src="./assets/moodhero.png" alt="MoodHero" width="100%" /></a>
-      <h3 align="center">MoodHero</h3>
-      <p align="center"><i>Your daily mood, sorted.</i></p>
-      <p align="center">A tiny journaling companion that turns scattered feelings into clear, kind patterns.</p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <br/>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
-      </p>
-      <p align="center"><i>...more on the way.</i></p>
-    </td>
-  </tr>
-</table>
 
 <img src="./assets/divider.svg" width="100%" height="4" alt="" />
 
