@@ -1,31 +1,97 @@
-<h1 align="center">
-  <a href="https://elshdma.online/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Elshad+Khalilov;Mobile+%26+App+Developer;Building+things+people+actually+use" alt="Typing SVG" />
-  </a>
-</h1>
-
+<!-- Animated wave header -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elsad159&label=Profile%20views&color=58A6FF&style=flat" alt="profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Elshad%20Khalilov&fontSize=58&fontAlignY=38&fontColor=ffffff&desc=Mobile%20%26%20App%20Developer&descAlignY=60&descSize=20&animation=fadeIn" alt="header" />
+</p>
+
+<!-- Animated typing intro -->
+<h3 align="center">
+  <a href="https://elshdma.online/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Elshad+%F0%9F%91%8B;Mobile+%26+App+Developer;I+ship+real+products+on+iOS%2C+Android+and+the+web;Currently+building+at+elshdma.online" alt="Typing SVG" />
+  </a>
+</h3>
+
+<!-- Live counters -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elsad159&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="profile views" />
   <a href="https://github.com/elsad159?tab=followers">
-    <img src="https://img.shields.io/github/followers/elsad159?label=Followers&style=flat&color=58A6FF" alt="followers" />
+    <img src="https://img.shields.io/github/followers/elsad159?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0d1117" alt="followers" />
+  </a>
+  <a href="https://github.com/elsad159?tab=repositories">
+    <img src="https://img.shields.io/github/stars/elsad159?label=Stars&style=for-the-badge&color=eac54f&labelColor=0d1117" alt="stars" />
   </a>
 </p>
 
----
+<!-- Animated gradient divider -->
+<img src="https://raw.githubusercontent.com/aleen42/aleen42/master/putty.gif" width="100%" height="3" alt="divider" />
 
-### About me
+## About me
 
-- Mobile / app developer focused on building polished, real-world products
-- Currently shipping projects under [**elshdma.online**](https://elshdma.online/)
-- Always exploring new tools, frameworks, and design ideas
-- Open to collaboration on interesting mobile and cross-platform projects
+```ts
+const elshad = {
+  role:        "Mobile / App Developer",
+  location:    "building from anywhere",
+  currently:   ["DevSys", "EasyBusiness", "MoodHero"],
+  stack:       ["Swift", "Kotlin", "React Native", "Expo", "TypeScript", "Node.js"],
+  philosophy:  "Build what you wish existed.",
+  website:     "https://elshdma.online",
+};
+```
 
----
+<img src="https://raw.githubusercontent.com/aleen42/aleen42/master/putty.gif" width="100%" height="3" alt="divider" />
 
-### Tech stack
+## Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="#"><img src="./assets/devsys.png" alt="DevSys" width="100%" /></a>
+      <h3 align="center">DevSys</h3>
+      <p align="center"><i>Your child's progress, in your pocket.</i></p>
+      <p align="center">Track grades, certificates, and academic progress — all in one place. Built for iPhone and Android.</p>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="#"><img src="./assets/easybusiness.png" alt="Easy Business" width="100%" /></a>
+      <h3 align="center">Easy Business</h3>
+      <p align="center"><i>Orders, settlements, and campaigns — one fast, transparent platform.</i></p>
+      <p align="center">A business operations toolkit for iPhone, Android, and the web.</p>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Web_App-12B886?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web App" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="#"><img src="./assets/moodhero.png" alt="MoodHero" width="100%" /></a>
+      <h3 align="center">MoodHero</h3>
+      <p align="center"><i>Your daily mood, sorted.</i></p>
+      <p align="center">A tiny journaling companion that turns scattered feelings into clear, kind patterns.</p>
+      <p align="center">
+        <a href="#"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <br/><br/>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
+      </p>
+      <p align="center"><i>...more on the way.</i></p>
+    </td>
+  </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/aleen42/aleen42/master/putty.gif" width="100%" height="3" alt="divider" />
+
+## Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,kotlin,react,ts,js,nodejs,tailwind,figma,git,github,vscode,xcode" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,react,ts,js,nodejs,tailwind,figma,git,github,vscode,xcode&perline=12" alt="tech stack" />
 </p>
 
 <p align="center">
@@ -37,28 +103,38 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/aleen42/aleen42/master/putty.gif" width="100%" height="3" alt="divider" />
 
-### GitHub stats
+## GitHub in motion
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elsad159&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elsad159&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsad159&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsad159&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsad159&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elsad159&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elsad159&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="activity graph" width="98%" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elsad159&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
+</p>
 
-### Connect with me
+<!-- Snake eats your contributions -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elsad159/elsad159/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
+</p>
+
+<img src="https://raw.githubusercontent.com/aleen42/aleen42/master/putty.gif" width="100%" height="3" alt="divider" />
+
+## Connect with me
 
 <p align="center">
   <a href="https://elshdma.online/">
@@ -72,8 +148,13 @@
   </a>
 </p>
 
----
-
 <p align="center">
-  <i>"Build what you wish existed."</i>
+  <a href="https://github.com/elsad159">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by!;Let's+build+something+together." alt="closing typing svg" />
+  </a>
+</p>
+
+<!-- Animated wave footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" alt="footer" />
 </p>
