@@ -14,32 +14,6 @@
 
 <!-- Animated section header -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=A371F7&center=true&vCenter=true&width=420&lines=%23+about+me;%2F%2F+who+is+this+guy%3F" alt="about me" />
-</h2>
-
-```ts
-const elshad = {
-  role:        "Mobile / App Developer",
-  location:    "building from anywhere",
-  currently:   ["DevSys", "EasyBusiness", "MoodHero"],
-  stack:       ["Swift", "Kotlin", "React Native", "Expo", "TypeScript", "Node.js"],
-  philosophy:  "Build what you wish existed.",
-  website:     "https://elshdma.online",
-};
-```
-
-<!-- "Now" pill row — what I'm into this week -->
-<p align="center">
-  <img src="https://img.shields.io/badge/now_building-DevSys%202.0-58A6FF?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="now building" />
-  <img src="https://img.shields.io/badge/listening-lofi%20coding-1DB954?style=for-the-badge&labelColor=0d1117&logo=spotify&logoColor=white" alt="listening" />
-  <img src="https://img.shields.io/badge/reading-System%20Design-FF7B72?style=for-the-badge&labelColor=0d1117&logo=bookstack&logoColor=white" alt="reading" />
-  <img src="https://img.shields.io/badge/learning-SwiftUI%20Animations-A371F7?style=for-the-badge&labelColor=0d1117&logo=swift&logoColor=white" alt="learning" />
-</p>
-
-<img src="./assets/divider.svg" width="100%" height="4" alt="" />
-
-<!-- Animated section header -->
-<h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=58A6FF&center=true&vCenter=true&width=520&lines=%23+featured+projects;%2F%2F+things+I+actually+shipped" alt="featured projects" />
 </h2>
 
