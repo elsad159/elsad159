@@ -1,12 +1,12 @@
-<!-- Animated wave header -->
+<!-- Custom animated hero (hand-coded SVG: gradient name, animated underline, floating particles) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F6FEB,100:A371F7&height=240&section=header&text=Elshad%20Khalilov&fontSize=64&fontAlignY=36&fontColor=ffffff&desc=Mobile%20%26%20App%20Developer&descAlignY=58&descSize=20&animation=fadeIn" alt="header" />
+  <img src="./assets/hero.svg" alt="Elshad Khalilov — Mobile & App Developer" width="100%" />
 </p>
 
 <!-- Animated typing intro -->
 <h3 align="center">
   <a href="https://elshdma.online/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Elshad+%F0%9F%91%8B;Mobile+%26+App+Developer;I+ship+real+products+on+iOS%2C+Android+and+the+web;Currently+building+at+elshdma.online" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Elshad;Mobile+%26+App+Developer;I+ship+real+products+on+iOS%2C+Android+and+the+web;Currently+building+at+elshdma.online" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -21,10 +21,12 @@
   </a>
 </p>
 
-<!-- Animated gradient divider -->
-<img src="https://raw.githubusercontent.com/aleen42/aleen42/master/putty.gif" width="100%" height="3" alt="divider" />
+<img src="./assets/divider.svg" width="100%" height="4" alt="" />
 
-## About me
+<!-- Animated section header -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=A371F7&center=true&vCenter=true&width=420&lines=%23+about+me;%2F%2F+who+is+this+guy%3F" alt="about me" />
+</h2>
 
 ```ts
 const elshad = {
@@ -37,9 +39,20 @@ const elshad = {
 };
 ```
 
-<img src="https://raw.githubusercontent.com/aleen42/aleen42/master/putty.gif" width="100%" height="3" alt="divider" />
+<!-- "Now" pill row — what I'm into this week -->
+<p align="center">
+  <img src="https://img.shields.io/badge/now_building-DevSys%202.0-58A6FF?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="now building" />
+  <img src="https://img.shields.io/badge/listening-lofi%20coding-1DB954?style=for-the-badge&labelColor=0d1117&logo=spotify&logoColor=white" alt="listening" />
+  <img src="https://img.shields.io/badge/reading-System%20Design-FF7B72?style=for-the-badge&labelColor=0d1117&logo=bookstack&logoColor=white" alt="reading" />
+  <img src="https://img.shields.io/badge/learning-SwiftUI%20Animations-A371F7?style=for-the-badge&labelColor=0d1117&logo=swift&logoColor=white" alt="learning" />
+</p>
 
-## Featured projects
+<img src="./assets/divider.svg" width="100%" height="4" alt="" />
+
+<!-- Animated section header -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=58A6FF&center=true&vCenter=true&width=520&lines=%23+featured+projects;%2F%2F+things+I+actually+shipped" alt="featured projects" />
+</h2>
 
 <table>
   <tr>
@@ -77,7 +90,7 @@ const elshad = {
       </p>
     </td>
     <td width="50%" valign="top">
-      <br/><br/>
+      <br/>
       <p align="center">
         <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
       </p>
@@ -86,9 +99,12 @@ const elshad = {
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/aleen42/aleen42/master/putty.gif" width="100%" height="3" alt="divider" />
+<img src="./assets/divider.svg" width="100%" height="4" alt="" />
 
-## Tech stack
+<!-- Animated section header -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=7EE787&center=true&vCenter=true&width=420&lines=%23+tech+stack;%2F%2F+tools+I+reach+for" alt="tech stack" />
+</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swift,kotlin,react,ts,js,nodejs,tailwind,figma,git,github,vscode,xcode&perline=12" alt="tech stack" />
@@ -106,9 +122,19 @@ const elshad = {
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-<img src="https://raw.githubusercontent.com/aleen42/aleen42/master/putty.gif" width="100%" height="3" alt="divider" />
+<img src="./assets/divider.svg" width="100%" height="4" alt="" />
 
-## Connect with me
+<!-- Dev quote of the day (random, re-rolls on each page load) -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
+</p>
+
+<img src="./assets/divider.svg" width="100%" height="4" alt="" />
+
+<!-- Animated section header -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=FF7B72&center=true&vCenter=true&width=480&lines=%23+connect;%2F%2F+say+hi%2C+I+reply" alt="connect" />
+</h2>
 
 <p align="center">
   <a href="https://elshdma.online/">
@@ -124,11 +150,11 @@ const elshad = {
 
 <p align="center">
   <a href="https://github.com/elsad159">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by!;Let's+build+something+together." alt="closing typing svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Thanks+for+stopping+by;Let's+build+something+together" alt="closing typing svg" />
   </a>
 </p>
 
-<!-- Animated wave footer -->
+<!-- Animated wave footer (matched to header palette) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A371F7,50:1F6FEB,100:0D1117&height=120&section=footer&animation=fadeIn&reversal=true" alt="footer" />
 </p>
