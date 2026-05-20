@@ -18,14 +18,12 @@ rem<!-- Custom animated hero (hand-coded SVG: gradient name, animated underline,
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,kotlin,react,ts,js,nodejs,tailwind,figma,git,github,vscode,xcode&perline=12" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,tailwind,figma,git,github,vscode,xcode&perline=12" alt="tech stack" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
