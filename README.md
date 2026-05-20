@@ -10,17 +10,6 @@
   </a>
 </h3>
 
-<!-- Live counters -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elsad159&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="profile views" />
-  <a href="https://github.com/elsad159?tab=followers">
-    <img src="https://img.shields.io/github/followers/elsad159?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0d1117" alt="followers" />
-  </a>
-  <a href="https://github.com/elsad159?tab=repositories">
-    <img src="https://img.shields.io/github/stars/elsad159?label=Stars&style=for-the-badge&color=eac54f&labelColor=0d1117" alt="stars" />
-  </a>
-</p>
-
 <img src="./assets/divider.svg" width="100%" height="4" alt="" />
 
 <!-- Animated section header -->
